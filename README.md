@@ -48,8 +48,10 @@ through practical, scalable, and low-cost implementations.
 
 📫 Contact  
 GitHub: https://github.com/webnegar
+
 Email: mohsenpourian@gmail.com
-Youtube: [https://www.youtube.com/channel/UCmOtFKkrd9KXK0IkFvT-XJA/](https://www.youtube.com/@mohsenpourian)
+
+Youtube: https://www.youtube.com/@mohsenpourian
 ---
 
 <hr>
