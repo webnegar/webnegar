@@ -37,8 +37,7 @@
 - NestJS
 - Angular
 - Git & GitHub
-- Docker (learning)
-
+- Docker 
 ---
 
 ## 🎯 Professional Goal
@@ -48,8 +47,9 @@ through practical, scalable, and low-cost implementations.
 ---
 
 📫 Contact  
-GitHub: https://github.com/USERNAME
-
+GitHub: https://github.com/webnegar
+Email: mohsenpourian@gmail.com
+Youtube: https://www.youtube.com/channel/UCmOtFKkrd9KXK0IkFvT-XJA/
 ---
 
 <hr>
@@ -88,7 +88,7 @@ GitHub: https://github.com/USERNAME
 - NestJS
 - Angular
 - Git & GitHub
-- Docker (در حال یادگیری)
+- Docker 
 
 ---
 
