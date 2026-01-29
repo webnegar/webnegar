@@ -18,4 +18,10 @@
 
 ## 📫 راه‌های ارتباطی
 - GitHub: https://github.com/webnegar
-- Email: your@email.com
+- Email: mohsenpourian@email.com
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=webnegar&show_icons=true)
