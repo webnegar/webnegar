@@ -6,9 +6,17 @@
 <a name="english"></a>
 # 👋 Hi, I'm Ehsan
 
-🎯 IT Director with 25+ years of experience in enterprise and industrial software systems  
-🏭 Working in the synthetic fiber industry  
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Large Language Models (LLMs)
+I'm a Software Engineer and IT Leader interested in building practical technology solutions for real-world challenges.
+
+Interests
+
+🤖 Local AI, LLMs, and AI agents
+💻 Software engineering and web technologies
+🏭 AI applications in industrial environments
+🔐 IT infrastructure, cybersecurity, and enterprise systems
+🧪 Experimenting with open-source AI tools
+
+I enjoy learning by building, exploring emerging technologies, and turning technical ideas into practical solutions.
 
 ---
 
